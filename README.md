@@ -30,9 +30,9 @@ I didn't like the idea of just having a terminal script that outputs a CSV swo t
 * A clean web interface where we can instantly see the total number of frauds, overall risk tiers and everything detailed;
 
 ### Built With
--> Python (Pandas & NumPy for data cleaning and math)
--> SQLite3 (database management)
--> Streamlit (web interface)
+-> Python (Pandas & NumPy for data cleaning and math) <br>
+-> SQLite3 (database management) <br>
+-> Streamlit (web interface) <br>
 -> Plotly (interactive charts)
 
 ### A quick glimpse at how the interface looks like

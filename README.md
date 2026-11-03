@@ -47,4 +47,4 @@ Further down, we can also see the **Complete Audit Report**. This interactive ta
 
 And finally, if we scroll down inside the report table, we go from **High Risk** and **Medium Risk** individuals to **Low Risk** partners who are actually following the rules and maintaining a flawless score.
 
-[!Audit Report - Low](images/reportlow.png)
+![Audit Report - Low](images/reportlow.png)
